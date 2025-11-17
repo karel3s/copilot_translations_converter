@@ -1,0 +1,1 @@
+# copilot_translations_converter
