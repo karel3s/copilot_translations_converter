@@ -1,6 +1,6 @@
 {
   "'customEntity(cr93b_generatieveSam.entity.Arbeidsstatuut)'.Description": "Hier vragen we naar het statuut van de klant; werknemer, werkloos of zelfstandig",
-  "'customEntity(cr93b_generatieveSam.entity.Arbeidsstatuut)'.DisplayName": "Arbeidsstatuut",
+  "'customEntity(cr93b_generatieveSam.entity.Arbeidsstatuut)'.DisplayName": "Arbeidsstatuut (vb EN)",
   "'customEntity(cr93b_generatieveSam.entity.Arbeidsstatuut)'.Entity.'closedListItem(NowrD8)'.DisplayName": "Zelfstandig",
   "'customEntity(cr93b_generatieveSam.entity.Arbeidsstatuut)'.Entity.'closedListItem(VBv4gm)'.DisplayName": "Werknemer",
   "'customEntity(cr93b_generatieveSam.entity.Arbeidsstatuut)'.Entity.'closedListItem(VBv4gm)'.Synonyms[0]": "arbeider",
