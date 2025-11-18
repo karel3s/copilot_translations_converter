@@ -8,11 +8,11 @@
 ## JSON to Excel Converter
 
 ```bash
-python3 json_to_excel.py 20251117_Sam_Translations_FR.json --vertical
+python json_to_excel.py 20251117_Sam_Translations_FR.json --vertical
 ```
 
 ## Excel to JSON Converter
 
 ```bash
-python3 excel_to_json.py input.xlsx --timestamp
+python excel_to_json.py input.xlsx --timestamp
 ```
